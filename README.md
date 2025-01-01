@@ -1,0 +1,1 @@
+This example demonstrates a common error in Groovy when using the `each` method with lists that might be null.  The `NullPointerException` arises from trying to call the `each` method on a `null` object.  The solution showcases a simple check to prevent this.
